@@ -1,0 +1,9 @@
+Package: com.teamcreation.reverb
+Name: Reverb
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.1-beta
+Architecture: iphoneos-arm
+Description: Giving your device a new definition.
+Maintainer: TeamCreation
+Author: TeamCreation
+Section: Themes

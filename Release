@@ -1,0 +1,8 @@
+Origin: iOSCreation's Example for Cydia
+Label: Cydia Example
+Suite: stable
+Version: 0.1
+Codename: reverb
+Architectures: iphoneos-arm
+Components: main
+Description: iOSCreation Private Repo
